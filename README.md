@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction---ML-Model
+This is a Machine Learning project to predict a patient has heart disease or not. With the labelled data set we have, create and train several ML models. And out of these we are selecting the most efficient model using performance matrix. Also will show the prediction of new patient using simple GUI.
